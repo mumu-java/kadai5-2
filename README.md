@@ -68,7 +68,7 @@ HTTPレスポンスの構成
 JSON（JavaScript Object Notification）・・・JavaScriptで値を取り扱うドキュメント規格でキーバリュー型で記述されたファイル  
 書式  
 {  
-"key1": value,  
-"key2": value,  
+```"key1"```: value,  
+<font color="Blue">"key2": value,</font>  
 "key3": value  
 }
