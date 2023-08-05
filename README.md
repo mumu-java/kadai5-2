@@ -69,6 +69,7 @@ JSON（JavaScript Object Notification）・・・JavaScriptで値を取り扱う
 書式  
 {  
 ```"key1"```: value,  
-<font color="Blue">"key2",</font> : value  
+<span style="color: blue; ">"key2"</span> : value  
 "key3": value  
 }
+これは<span style="color: red; ">赤文字</span>です
