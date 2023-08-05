@@ -65,7 +65,7 @@ HTTPレスポンスの構成
 ・レスポンスボディとは何か、JSONとは何か  
 空行の下にあるデータ本体部分  
 
-JSON（JavaScript Object Notification）・・・JavaScriptで値を取り扱うドキュメント規格  
+JSON（JavaScript Object Notification）・・・JavaScriptで値を取り扱うドキュメント規格でキーバリュー型で記述されたファイル  
 書式  
 {  
 "key1": value,  
