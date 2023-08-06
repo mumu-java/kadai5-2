@@ -67,11 +67,13 @@ HTTPレスポンスに含まれるWebサーバの処理結果を表す３桁の�
 
 JSON（JavaScript Object Notification）・・・JavaScriptで値を取り扱うドキュメント規格でキーバリュー型で記述されたファイル  
 書式  
+```Diff_json
 {  
 ```"key1"```: value,  
 <span style="color: blue; ">"key2"</span> : value  
-"key3": value  
-}
-これは<span style="color: red; ">赤文字</span>です
+`"key3"`: value  
+}```
+
 <span style="color: red;">赤いテキスト</span>
 <font color="MediumSlateBlue">青文字</font>
+rgb(255,0,0)
