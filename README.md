@@ -73,3 +73,4 @@ JSON（JavaScript Object Notification）・・・JavaScriptで値を取り扱う
 "key3": value  
 }
 これは<span style="color: red; ">赤文字</span>です
+<span style="color: red;">赤いテキスト</span>
